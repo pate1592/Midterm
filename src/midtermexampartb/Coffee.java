@@ -9,7 +9,7 @@ package midtermexampartb;
  *
  * @author 
  */
-public class Coffee {
+public abstract class Coffee {
       public boolean sugar;
       private int shots ;
       private String size;
